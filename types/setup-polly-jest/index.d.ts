@@ -20,8 +20,7 @@ export interface PollyContext {
  * add beforeAll/afterAll hooks that will activate/deactivate
  * Polly when running test suite
  *
- * @param {PollyConfig} defaults Polly default options
- *
- * @returns {PollyContext} Context with `polly` property
+ * @param defaults Polly default options
+ * @returns Context with `polly` property
  */
 export function setupPolly(defaults: PollyConfig): PollyContext;
