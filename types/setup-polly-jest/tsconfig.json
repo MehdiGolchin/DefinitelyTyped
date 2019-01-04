@@ -18,6 +18,15 @@
         "paths": {
             "@pollyjs/core": [
                 "pollyjs__core"
+            ],
+            "@pollyjs/utils": [
+                "pollyjs__utils"
+            ],
+            "@pollyjs/adapter": [
+                "pollyjs__adapter"
+            ],
+            "@pollyjs/persister": [
+                "pollyjs__persister"
             ]
         }
     },
