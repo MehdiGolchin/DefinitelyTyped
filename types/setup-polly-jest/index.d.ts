@@ -1,7 +1,8 @@
-// Type definitions for setup-polly-jest v0.5.2
+// Type definitions for setup-polly-jest 0.5.2
 // Project: https://github.com/gribnoysup/setup-polly-jest
 // Definitions by: Mehdi Golchin <https://github.com/MehdiGolchin>
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
+// TypeScript Version: 2.4
 
 import { PollyConfig, Polly } from '@pollyjs/core'
 
