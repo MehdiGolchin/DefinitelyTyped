@@ -24,4 +24,4 @@ export interface PollyContext {
  *
  * @returns {PollyContext} Context with `polly` property
  */
-export function setupPolly(config: PollyConfig): PollyContext;
+export function setupPolly(defaults: PollyConfig): PollyContext;
